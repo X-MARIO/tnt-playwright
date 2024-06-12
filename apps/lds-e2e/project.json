@@ -1,0 +1,9 @@
+{
+  "name": "lds-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/lds-e2e/src",
+  "implicitDependencies": ["lds"],
+  "// targets": "to see all targets run: nx show project lds-e2e --web",
+  "targets": {}
+}
